@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Create a new branch is quick and simple.
 add merge
+test --no-ff
+pre stash
+dev

@@ -6,3 +6,4 @@ Create a new branch is quick and simple.
 add merge
 test --no-ff
 pre stash
+learngit1 add

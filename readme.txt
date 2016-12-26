@@ -7,3 +7,5 @@ add merge
 test --no-ff
 pre stash
 dev
+learngit1 add
+learngit2 add
